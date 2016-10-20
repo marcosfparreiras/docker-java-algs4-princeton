@@ -9,6 +9,8 @@ Once you have Docker installed, run:
 ```
 docker build -t name/repo:version .
 ```
+
 In order to run the image, run:
+```
 docker run -ti name/repo:version
 ```
